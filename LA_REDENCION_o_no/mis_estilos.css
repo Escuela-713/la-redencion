@@ -1,0 +1,12 @@
+
+body {background-color: black;}
+section {color: white;}
+header {background-color: brown; font-size: 50px;}
+footer {font-size: 20px; background-color: brown;}
+
+
+
+
+.quiz {background-color: white; color: black; border:20px; border-style: double;}
+.RESULTADOMAL {font-size: 40px; background-color: black; color: RED;}
+.RESULTADOBIEN {font-size: 40px; background-color: black; color: green;}
